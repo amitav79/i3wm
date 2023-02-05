@@ -8,4 +8,4 @@ Note that all files are not written completely by me. Some of them are collected
 * **Polybar**
 + **i3blocks** to customize the i3 status bar
 * **feh** for setting wallpaper on i3
-- picom for blur and transparent window
+- picom for  background blur and transparent window
